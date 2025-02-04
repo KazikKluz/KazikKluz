@@ -1,9 +1,6 @@
 <h1 align="center">Hello 👋, I'm Kazik</h1>
-<h3 align="center">Software and Cloud Engineer from Ireland</h3>
+<h3 align="center">Cloud Engineer from Ireland</h3>
 
-- 🌱 I’m currently focusing on front-end technologies like **React** and it's ecosystem
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me **kazik.klu
 Combines a BSc in Enterprise Cloud Computing and BSc Hons in Cloud Computing with DevOps (minor in Web Application Development) to design scalable cloud solutions and automate robust CI/CD workflows. Adept at bridging full-stack development with cloud-native architectures, they focus on optimizing performance, security, and agility for modern tech ecosystems.
 
 🔧 Core Skills:
