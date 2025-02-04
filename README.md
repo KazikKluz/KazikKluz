@@ -1,9 +1,24 @@
 <h1 align="center">Hello 👋, I'm Kazik</h1>
-<h3 align="center">A JavaScript developer from Ireland</h3>
+<h3 align="center">Software and Cloud Engineer from Ireland</h3>
 
 - 🌱 I’m currently focusing on front-end technologies like **React** and it's ecosystem
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me **kazik.kluz@gmail.com**
+- 📫 How to reach me **kazik.klu
+Combines a BSc in Enterprise Cloud Computing and BSc Hons in Cloud Computing with DevOps (minor in Web Application Development) to design scalable cloud solutions and automate robust CI/CD workflows. Adept at bridging full-stack development with cloud-native architectures, they focus on optimizing performance, security, and agility for modern tech ecosystems.
+
+🔧 Core Skills:
+
+Cloud Platforms: AWS | Azure | GCP
+
+DevOps Tools: Kubernetes, Terraform, Pulumi , Docker, Backstage
+
+Full-Stack: React, Node.js, Python
+
+Focus Areas: Cloud migration, IaC, microservices, serverless systems
+
+💡 Driven by: Simplifying complexity, solving infrastructure challenges, and delivering resilient systems that scale.
+
+Open to collaborations and cloud innovation—reach out!
 
 <h3 style="color: red;" align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +43,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" />      
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
