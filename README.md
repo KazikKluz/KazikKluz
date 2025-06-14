@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kazik</h1>
 <h3 align="center">Cloud Engineer from Ireland</h3>
 
-Combines a BSc in Enterprise Cloud Computing and BSc Hons in Cloud Computing with DevOps (minor in Web Application Development) to design scalable cloud solutions and automate robust CI/CD workflows. Adept at bridging full-stack development with cloud-native architectures, they focus on optimizing performance, security, and agility for modern tech ecosystems.
+Graduate with a BSc Hons in Cloud Computing with DevOps (minor in Web Application Development) to design scalable cloud solutions and automate robust CI/CD workflows. Adept at bridging full-stack development with cloud-native architectures, they focus on optimizing performance, security, and agility for modern tech ecosystems.
 
 🔧 Core Skills:
 
